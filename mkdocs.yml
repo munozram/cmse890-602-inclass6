@@ -1,0 +1,17 @@
+site_name: In-class Documentation
+theme:
+  name: "material"
+plugins:
+  - mkdocstrings
+nav:
+  - Home: index.md
+  - Tutorials: tutorials.md
+  - How-to Guides: howtoguides.md
+  - Explanation: explanation.md
+  - Reference:
+    - Introduction: reference.md
+    - Sum: sum.md
+    - Thermostat: thermo.md
+    - String digits: digits.md
+    - Area: area.md
+    - Perimeter: perimeter.md
